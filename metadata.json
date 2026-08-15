@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Ujian & Evaluasi PKK",
+  "description": "Aplikasi kuis interaktif Produk Kreatif dan Kewirausahaan (PKK) dengan sistem 3 kali percobaan, refleksi pembelajaran mendalam, stopwatch, dan admin rekapitulasi nilai Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
